@@ -1,5 +1,5 @@
 {
-    "name": "realpay-utils",
+    "name": "@khaitbek/realpay-utils",
     "version": "0.0.1",
     "license": "MIT",
     "main": "dist/index.js",
