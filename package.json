@@ -1,5 +1,5 @@
 {
-    "name": "realpay-utils",
+    "name": "@hayitbek/realpay-utils",
     "version": "0.0.1",
     "license": "MIT",
     "main": "dist/index.js",
@@ -18,8 +18,5 @@
     },
     "dependencies": {
         "clsx": "^2.1.1"
-    },
-    "publishConfig": {
-        "access": "public"
     }
 }
