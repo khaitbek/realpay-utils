@@ -1,0 +1,22 @@
+{
+    "name": "realpay-utils",
+    "version": "0.0.1",
+    "license": "MIT",
+    "main": "dist/index.js",
+    "module": "dist/index.mjs",
+    "types": "dist/index.d.ts",
+    "description": "Utilities for RealPay",
+    "scripts": {
+        "build": "tsup index.ts --format esm,cjs --dts",
+        "release": "pnpm run build && changeset publish",
+        "lint": "tsc"
+    },
+    "devDependencies": {
+        "@changesets/cli": "^2.27.7",
+        "tsup": "^8.1.0",
+        "typescript": "^5.5.3"
+    },
+    "dependencies": {
+        "clsx": "^2.1.1"
+    }
+}
