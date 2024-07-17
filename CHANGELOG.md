@@ -1,5 +1,11 @@
 # @hayitbek/realpay-utils
 
+## 0.4.0
+
+### Minor Changes
+
+- 8888f82: add documentation
+
 ## 0.3.0
 
 ### Minor Changes
