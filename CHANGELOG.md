@@ -1,5 +1,11 @@
 # @hayitbek/realpay-utils
 
+## 0.3.0
+
+### Minor Changes
+
+- 10e9202: add a README.md file
+
 ## 0.2.0
 
 ### Minor Changes
